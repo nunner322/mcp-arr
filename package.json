@@ -1,0 +1,49 @@
+{
+  "name": "mcp-arr-server",
+  "version": "1.0.0",
+  "mcpName": "io.github.aplaceforallmystuff/mcp-arr",
+  "description": "MCP server for *arr media management suite - Sonarr, Radarr, Lidarr, Readarr, Prowlarr",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "bin": {
+    "mcp-arr": "./dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "sonarr",
+    "radarr",
+    "lidarr",
+    "readarr",
+    "prowlarr",
+    "media",
+    "plex",
+    "model-context-protocol",
+    "claude",
+    "ai"
+  ],
+  "author": "Jim Christian",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aplaceforallmystuff/mcp-arr.git"
+  }
+}
