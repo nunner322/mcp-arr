@@ -7,6 +7,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+## [1.4.0] - 2025-12-01
+
+### Added
+- **TRaSH Guides Integration** - Access community-curated quality profiles, custom formats, and naming conventions directly through Claude:
+  - `trash_list_profiles` - List available TRaSH quality profiles for Radarr or Sonarr
+  - `trash_get_profile` - Get detailed profile with custom formats, scores, and quality settings
+  - `trash_list_custom_formats` - List custom formats with optional category filter (hdr, audio, resolution, source, streaming, anime, unwanted, release, language)
+  - `trash_get_naming` - Get recommended naming conventions for Plex, Emby, Jellyfin, or standard
+  - `trash_get_quality_sizes` - Get recommended min/max/preferred sizes for each quality level
+  - `trash_compare_profile` - Compare your profile against TRaSH recommendations
+  - `trash_compare_naming` - Compare your naming config against TRaSH recommendations
+
+- New `trash-client.ts` module for fetching and caching TRaSH Guides data from GitHub
+- 1-hour cache for TRaSH data to minimize GitHub API calls
+- Custom format categorization (HDR, audio, resolution, source, streaming, anime, etc.)
+
+### Purpose
+TRaSH Guides tools enable users to reference community best practices for *arr configuration without leaving Claude. Compare your current setup against TRaSH recommendations to identify missing custom formats, quality settings differences, and naming improvements.
+
 ## [1.3.0] - 2025-11-29
 
 ### Added
