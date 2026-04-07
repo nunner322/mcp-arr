@@ -23,6 +23,6 @@ jobs:
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
 
       - name: Validate Skill
-        uses: hashgraph-online/skill-publish@96e6eb1e52ba479d15067aef9dde83ca94afb06a
+        uses: hashgraph-online/skill-publish@5ea6109cf9c3f8c3d9dad028f963790a56497257
         with:
           mode: validate
